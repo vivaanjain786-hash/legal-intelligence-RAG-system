@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+bcrypt
+email-validator
+python-dotenv
+PyMuPDF
